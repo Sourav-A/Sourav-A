@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arijit Dhar</h1>
 <h3 align="center">A passionate Java Backend developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arijit-d" alt="arijit-d" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arijit-d" alt="arijit-d" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://arijit-d.github.io/](https://arijit-d.github.io/)
 
