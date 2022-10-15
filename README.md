@@ -1,6 +1,6 @@
 
 <div align="center">
-        <img src="https://camo.githubusercontent.com/5a529ba6f025b840982fbfd00ef6b2fe566554cf7288c3a5ccc4aaf70d51ad09/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62392f65342f39362f62396534393630633134373663373830343364343939643937356638366364622e676966" width="40%"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJsKZVppBhshJBN6_RHp9luylwz4eQO4I8Tg&usqp=CAU" width="40%"/>
       </div>
 <h1 align="center">Hi 👋, I'm Arijit Dhar</h1>
 <h3 align="center">A passionate Java Backend developer</h3>
