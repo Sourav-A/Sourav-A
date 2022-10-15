@@ -18,5 +18,5 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijit-d&" alt="arijit-d" /></p>
+<p margin="auto"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arijit-d&" alt="arijit-d" /></p>
 
