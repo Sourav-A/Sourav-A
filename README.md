@@ -1,3 +1,7 @@
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sourav-D&theme=tokyonight)
+
+
 <div align="center">
 <img src="https://Arijit-D.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
